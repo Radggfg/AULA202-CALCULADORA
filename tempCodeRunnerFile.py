@@ -1,0 +1,1 @@
+b_1 = Button(frame_corpo, text="C", width=11, height=2, bg=cor4, font=('Ivy 13q bold'), relief=RAISED, overrelief=RIDGE)
